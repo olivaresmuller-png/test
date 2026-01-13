@@ -1,0 +1,37 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+
+# Production
+dist
+build
+
+# Misc
+.DS_Store
+.env
+.npmrc
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Vite
+vite.config.ts.timestamp-*
+vite.config.ts.*
+
+# OS
+Thumbs.db
